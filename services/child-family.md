@@ -1,9 +1,9 @@
 ---
 layout: service
-title: Couples Therapy
+title: Child Family
 homepage: 
     image: example.jpg
     excerpt: please enter some beautiful text here
 ---
 
-Couples Therapy
+Child Family

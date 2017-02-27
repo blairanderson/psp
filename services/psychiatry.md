@@ -1,9 +1,9 @@
 ---
 layout: service
-title: Couples Therapy
+title: Psychiatry
 homepage: 
     image: example.jpg
     excerpt: please enter some beautiful text here
 ---
 
-Couples Therapy
+Psychiatry

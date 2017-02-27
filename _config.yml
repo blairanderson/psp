@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Puget Sound Psychotherapy
 subtitle: Your awsome subtitle
+headline: Puget Sound Psychotherapy & Psychiatry
 homepage_header: http://pugetpsychotherapy.com/images/background-mountains.jpg
 cta:
   email: your-email@domain.com

@@ -1,9 +1,9 @@
 ---
 layout: service
-title: Couples Therapy
+title: Individual Therapy
 homepage: 
     image: example.jpg
     excerpt: please enter some beautiful text here
 ---
 
-Couples Therapy
+Individual Therapy
