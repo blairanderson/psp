@@ -1,9 +1,14 @@
 ---
-layout: default
+layout: page
+menu: service
 ---
-# services
-## services
-### services
-#### services
+
+# service layout
+
+## service layout
+
+### services layout
+
+#### services layout
 
 {{content}}

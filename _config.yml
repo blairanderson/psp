@@ -17,8 +17,9 @@ title: Puget Sound Psychotherapy
 subtitle: Your awsome subtitle
 headline: Puget Sound Psychotherapy & Psychiatry
 homepage_header: http://pugetpsychotherapy.com/images/background-mountains.jpg
+email: intake@pugetpsychotherapy.com
 cta:
-  email: your-email@domain.com
+  email: intake@pugetpsychotherapy.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for

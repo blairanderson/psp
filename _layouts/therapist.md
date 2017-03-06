@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: page
+menu: therapist
 ---
-# THERAPIST
-# THERAPIST
-# THERAPIST
-# THERAPIST
+# THERAPIST layout
+
+## THERAPIST layout
+
+### THERAPIST layout
+
+#### THERAPIST layout
 
 {{content}}
