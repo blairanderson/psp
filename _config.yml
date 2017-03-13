@@ -29,6 +29,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+locations:
+  - title: "SF"
+    street: '837 Larkin St.'
+    city_state_zip: 'San Francisco, CA 94109'
+    phone: '+1 207-555-5555'
+  - title: "LA"
+    street: '1111 Manor Way'
+    city_state_zip: 'Los Angeles, CA 90048'
+    phone: '+1 323-555-5555'
+  - title: "London"
+    street: "11 Downey St."
+    city_state_zip: "London, UK"
+    phone: "+44 0 5555-5555"
+
+  - title: "Tokyo"
+    street: "1982 Flangan Rd."
+    city_state_zip: "Shinjuku, Tokyo"
+    phone: "+99 5555-5555"
+
 # Build settings
 markdown: kramdown
 theme: tachyons-blocks
